@@ -1,0 +1,14 @@
+detectron_env/
+detectron2/
+output/*.pth
+output/*.pt
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
